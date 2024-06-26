@@ -54,7 +54,3 @@ Simply run the voice assistant and start speaking commands like:
 - "Play [song name] on YouTube"
 
 The assistant will respond to your commands and perform the requested actions.
-
----
-
-Feel free to adjust the repository link and any other specific details to match your project.
